@@ -1,0 +1,126 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.bottom-container{
+    padding: 3%;
+    background-color: #393e46;
+}
+
+.chillies-img{
+    height: 30%;
+    width: 35%;
+    border-radius: 100%;
+    float: right;
+    margin: 0 9%;
+}
+
+.cloud-bottom{
+    position: absolute;
+    bottom:300px;
+    left: 300px;
+
+}
+
+.cloud-top{
+    position: absolute;
+    top: 35px;
+    right: 280px;
+}
+
+.computer-img{
+    height: 30%;
+    width: 35%;
+    border-radius: 100%;
+    float: left;
+    margin: 0 9%;
+}
+
+.contact-me{
+    padding: 5%;
+    background-color: #f1fcfc;
+}
+
+.footer-link{
+    color: #40e0d0;
+    margin: 5% 1%;
+}
+
+.footer-p{
+    color: #ffffff;
+}
+
+.group{
+    margin: 3%;
+}
+
+h2{
+    color: #32e0c4;
+    font-size: 2.5rem;
+}
+
+h3{
+    color: #393e46;
+}
+
+hr{
+    width: 6%;
+    border-style: dotted;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-width: 7;
+    margin: 5% auto 1% auto;
+    color:#EEEEEE;
+}
+
+.middle-container{
+    padding: 10% 5% 5% 5%;
+    background-color: #FFFFFF;
+}
+
+p{
+    color: gray;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.profile-img{
+    height: 30%;
+    width: 17%;
+    border-radius: 100%;
+}
+
+.skills{
+    padding: 3% 3% 0 3%;
+}
+
+.skill-row{
+    margin: 7% auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-section{
+    background-color: #f1fcfc;
+    position: relative;
+    padding: 8% 5% 0 5%;
+    color: #40e0d0;
+    text-shadow: 3px 2px 1px grey;
+}
+
+.top-h1{
+   font-family: 'Sacramento', cursive;
+   font-size: 5rem;
+   font-weight: bolder;
+}
+
+.top-p{
+    font-size: 2rem;
+    color: #32e0c4;
+}
